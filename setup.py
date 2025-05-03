@@ -9,6 +9,7 @@ setup(
     long_description=open('README.md', encoding='utf-8').read(),  # READMEを長文説明に使用
     long_description_content_type='text/markdown',  # Markdownを使用していることを明記
     url='https://github.com/s-kishida/KishouScrapeDraw.git',  # GitHubリポジトリURL
+    license='MIT',
     packages=find_packages(),  # __init__.py を含むすべてのパッケージを自動検出
     install_requires=[
         'matplotlib',
