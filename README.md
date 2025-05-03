@@ -16,6 +16,31 @@
 
 ---
 
+## システム前提条件（Linux / Google Colab など）
+
+`KishouScrapeDraw` を正しく動作させるには、以下のシステムパッケージのインストールが必要です：
+
+### 必須システムパッケージ
+
+- `poppler-utils`（PDFから画像変換）
+- `ghostscript`（PDF処理）
+- `fonts-ipafont`（日本語フォント）
+
+### Ubuntu / Debian の場合（例：Google Colab）
+
+```bash
+sudo apt-get update
+sudo apt-get install -y poppler-utils ghostscript fonts-ipafont
+
+### macOS の場合（Homebrew）
+brew install poppler ghostscript
+brew install --cask homebrew/cask-fonts/font-ipaexfont
+
+### Windows の場合
+Poppler for Windows をインストール
+Ghostscript をインストール
+IPAフォントを 公式サイト からインストール
+
 ## インストール
 
 ```bash
