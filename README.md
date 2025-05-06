@@ -1,7 +1,5 @@
 # KishouScrapeDraw
 
-# KishouScrapeDraw
-
 **KishouScrapeDraw** は、気象庁（JMA）の気象データと天気図をもとに、グラフやPDFレポートを生成できる教育向けPythonパッケージです。
 
 気象探究・理科の授業などでの活用を想定し、**日本語対応・PDF出力・一括処理**など、実用的な機能を備えています。
