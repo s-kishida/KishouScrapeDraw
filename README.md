@@ -121,4 +121,4 @@ MIT License
 
 ## 🔗 GitHubリポジトリ
 
-https://github.com/surugukishida/KishouScrapeDraw
+[https://github.com/s-kishida/KishouScrapeDraw](https://github.com/s-kishida/KishouScrapeDraw)
