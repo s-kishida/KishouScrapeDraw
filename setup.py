@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='KishouScrapeDraw',  # パッケージ名（PyPI上での名前）
-    version='0.1.0',  # バージョン番号（SemVer推奨：例 0.1.0, 1.0.0 など）
+    version='0.1.1',  # バージョン番号（SemVer推奨：例 0.1.0, 1.0.0 など）
     author='S.Kishida',  # あなたの名前
     author_email='s.kishida98@gmail.com',  # メールアドレス（任意）
     description='気象庁(JMA)の天気データを取得・可視化・PDF化する教育向けツール',
